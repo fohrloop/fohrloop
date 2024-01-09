@@ -5,7 +5,7 @@
 
 ## Social
 
-🦣  Connect with me on mastodon: [mastodon.social/@fohrloop](https://mastodon.social/@fohrloop) 
+🦣  Connect with me on mastodon: [fosstodon.org/@fohrloop](https://fosstodon.org/@fohrloop)
   
 ## Stats
 [![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=fohrloop&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
