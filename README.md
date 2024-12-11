@@ -5,7 +5,7 @@
 
 ## Social
 
-- 🦋 bluesky: [@fohrloop.bsky.social](https://bsky.app/profile/fohrloop.bsky.social)
+- 🦋 bluesky: [@fohrloop.com](https://bsky.app/profile/fohrloop.com)
 - 🦣 mastodon: [@fohrloop@fosstodon.org](https://fosstodon.org/@fohrloop)
   
 ## Stats
